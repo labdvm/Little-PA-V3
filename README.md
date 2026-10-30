@@ -6,6 +6,10 @@ Same as Little PA with few corrections and improvements
 - Re-routed power supply trace for the PA power supply.
 - Changed some components value's in the BOM file.
 
+- SAW Bandpass filters:
+- RX, TA0665A (https://www.aliexpress.com/item/1005011831789075.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000056730460079%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
+- TX, TA2490A (https://www.aliexpress.com/item/1005011831747244.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000056722939672%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
+
  # Z32IT
 
 - You can order from here:
