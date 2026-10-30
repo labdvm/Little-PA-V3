@@ -7,3 +7,6 @@ Same as Little PA with few corrections and improvements
 - Changed some components value's in the BOM file.
 
  # Z32IT
+
+- You can order from here:
+  <a href="https://www.pcbway.com/project/shareproject/Little_PA_V3_SX1255_HAT_f7e2d83a.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
